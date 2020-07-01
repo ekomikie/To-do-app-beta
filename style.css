@@ -141,10 +141,16 @@ body {
 .blue-bg {
   background-color: #4b29dd;
 }
+.inner-text {
+  font-size: 14px;
+}
 /* INTERFACE-SECTION */
 
 .review-pic {
   border-radius: 50%;
+}
+.review-text {
+  font-size: 14px;
 }
 
 /* SUBSCRIBE-SECTION */
@@ -250,11 +256,19 @@ body {
   .left-box {
     order: 2;
   }
+  
+  .tools-header {
+    padding-top: 20px;
+  }
   .learn-btn {
     margin-left: 32%;
   }
   .right-box {
     order: 1;
+  }
+  
+  .feature-text {
+    padding-bottom: 16px;
   }
 
   .number-one {
