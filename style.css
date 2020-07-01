@@ -125,11 +125,12 @@ body {
 
 .feature-icons {
   background-color: #e5e5e5;
-  width: 40px;
-  height: 40px;
+  width: 45px;
+  height: 45px;
   border-radius: 3px;
-  padding-left: 6px;
+  padding-left: 10px;
   margin-top: 4px;
+  padding-top: 4px;
 }
 
 .learn-btn {
@@ -250,7 +251,7 @@ body {
     order: 2;
   }
   .learn-btn {
-    margin-left: 35%;
+    margin-left: 32%;
   }
   .right-box {
     order: 1;
