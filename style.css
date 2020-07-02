@@ -312,7 +312,24 @@ body {
     max-height: 50%;
     margin-bottom: 10px;
   }
-  
+  .logo-box-2 {
+    margin-left: 20px;
+  }
+
+  .social-media-icons {
+    margin-left: 20px;
+  }
+
+  .foot-text {
+    margin-left: 20px;
+  }
+  .sec-col {
+    padding-top: 30px;
+  }
+  .third-col {
+    padding-top: 30px;
+  }
+
   .app-icons {
     flex-direction: column-reverse;
   }
@@ -323,7 +340,6 @@ body {
   .apple-logo {
     margin-top: 3%;
   }
-  
   .sub-italic-text {
     font-size: 14px;
   }
@@ -332,7 +348,4 @@ body {
     margin-left: 3%;
   }
 
-  .last-con {
-    display: none;
-  }
 }
