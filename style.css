@@ -186,13 +186,12 @@ body {
 /* FOOTER */
 
 .logo-box-2 {
-  background: #4b29dd;
-
   width: 80px;
   height: 80px;
+  background: #4b29dd;
+
   border-radius: 25px 0px 35px 28px;
 }
-
 .logo-box-2 .navbar-brand-2 {
   color: #fff;
   font-size: 3.8rem;
