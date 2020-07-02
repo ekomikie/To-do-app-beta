@@ -254,8 +254,8 @@ body {
   }
 }
 
-@media (max-width: 650px) {
-   .p-box {
+@media (max-width: 570px) {
+  .p-box {
     margin-top: 8%;
   }
   .left-box {
@@ -318,10 +318,9 @@ body {
   .subscribe-text {
     font-size: 14px;
   }
-   .app-icons {
+
+  .app-icons {
     flex-direction: column-reverse;
-  }
-  .app-icon {
     max-height: 50%;
     margin-bottom: 10px;
   }
@@ -342,19 +341,27 @@ body {
   .third-col {
     padding-top: 30px;
   }
- 
- 
 
-  
+  .app-icons {
+    flex-direction: column-reverse;
+    max-height: 50%;
+    margin-bottom: 10px;
+  }
+
+  .apple-box {
+    display: flex;
+  }
   .apple-logo {
-    margin-top: 3%;
+    margin-top: 12%;
+    max-height: 43px;
+    margin-left: 2px;
   }
   .sub-italic-text {
     font-size: 14px;
   }
 
   .google-play {
-    margin-left: 3%;
+    max-height: 43px;
+    margin-left: 6px;
   }
-
 }
