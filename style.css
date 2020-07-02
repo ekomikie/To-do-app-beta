@@ -14,14 +14,17 @@ body {
 }
 
 .logo-box {
-  position: relative;
-  width: 70px;
-  height: 80px;
+  
+  width: 75px;
+  height: 75px;
   background: #fff;
 
-  border-radius: 27px 0px 27px 27px;
+  border-radius: 28px 0px 28px 28px;
 }
 .logo-box .navbar-brand {
+  position: absolute;
+  top: 5%;
+  left: 9%;
   color: #4b29dd;
   font-size: 3.8rem;
 }
