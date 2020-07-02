@@ -347,7 +347,13 @@ body {
     max-height: 50%;
     margin-bottom: 10px;
   }
-
+  .google-icon {
+    max-height: 65px;
+    margin-top: 10px;
+  }
+  .app-icon {
+    max-height: 65px;
+  }
   .apple-box {
     display: flex;
   }
