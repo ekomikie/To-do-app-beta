@@ -285,16 +285,13 @@ body {
     width: 70%;
   }
   .number-three {
-    margin-left: 25%;
+    display: none;
   }
   .screen-three {
-    width: 70%;
+    display: none;
   }
   .number-four {
-    margin-left: 25%;
-  }
-  .screen-four {
-    width: 70%;
+    display: none;
   }
   .subscribe-bg-image {
     width: 100%;
