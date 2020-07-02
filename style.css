@@ -184,17 +184,7 @@ body {
 }
 
 /* FOOTER */
-.logo-box {
-  width: 80px;
-  height: 80px;
-  background: #fff;
 
-  border-radius: 25px 0px 35px 28px;
-}
-.logo-box .navbar-brand {
-  color: #4b29dd;
-  font-size: 3.8rem;
-}
 .logo-box-2 {
   background: #4b29dd;
 
