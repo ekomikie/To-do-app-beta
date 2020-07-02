@@ -359,15 +359,15 @@ body {
   }
   .apple-logo {
     margin-top: 12%;
-    max-height: 43px;
-    margin-left: 2px;
+    max-height: 40px;
+    
   }
   .sub-italic-text {
     font-size: 14px;
   }
 
   .google-play {
-    max-height: 43px;
+    max-height: 40px;
     margin-left: 6px;
   }
 }
