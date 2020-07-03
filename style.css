@@ -353,11 +353,11 @@ body {
     max-height: 65px;
   }
   .apple-box {
-    
+    display:flex;
   }
   .apple-logo {
     margin-top: 13%;
-    max-height: 40px;
+    max-height: 33px;
     
   }
   .sub-italic-text {
@@ -365,7 +365,7 @@ body {
   }
 
   .google-play {
-    max-height: 40px;
+    max-height: 35px;
     margin-left: 5px;
   }
 }
