@@ -356,8 +356,8 @@ body {
     display:flex;
   }
   .apple-logo {
-    margin-top: 16%;
-    max-height: 33px;
+    margin-top: 2px;
+    max-height: 40px;
     
   }
   .sub-italic-text {
@@ -365,7 +365,7 @@ body {
   }
 
   .google-play {
-    max-height: 35px;
+    max-height: 40px;
     margin-left: 5px;
   }
 }
